@@ -1,0 +1,70 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\цифры1.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u1.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u2.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u3.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u4.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u5.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u6.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u7.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u10.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u8.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u9.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\mainmenu_0.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\mainbutton.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\1.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\project_main_1.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\project_main_1.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\obj\x86\Debug\project_main_1.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\obj\x86\Debug\project_main_1.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\2.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\3.1.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\4.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\stol.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\movie.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1\obj\x86\Debug\project_main_1.csprojResolveAssemblyReference.cache
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\цифры1.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u1.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u2.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u3.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u4.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u5.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u6.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u7.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u10.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u8.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\u9.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\mainmenu_0.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\mainbutton.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\1.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\2.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\3.1.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\4.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\stol.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Content\movie.xnb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\project_main_1.exe
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\project_main_1.pdb
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\vlad\program\project_main_1\project_main_1\project_main_1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\vlad\program\project_main_1\project_main_1\project_main_1\obj\x86\Debug\project_main_1.csprojResolveAssemblyReference.cache
+D:\vlad\program\project_main_1\project_main_1\project_main_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\vlad\program\project_main_1\project_main_1\project_main_1\obj\x86\Debug\project_main_1.exe
+D:\vlad\program\project_main_1\project_main_1\project_main_1\obj\x86\Debug\project_main_1.pdb

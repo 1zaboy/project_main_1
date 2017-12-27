@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\project_main_1\project_main_1\project_main_1Content\obj\x86\Debug\project_main_1Content.contentprojResolveAssemblyReference.cache
+D:\vlad\program\project_main_1\project_main_1\project_main_1Content\obj\x86\Debug\project_main_1Content.contentprojResolveAssemblyReference.cache
