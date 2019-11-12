@@ -1,1 +1,1 @@
-# Trying to make a card game on Xna.
+# Trying to make a card game on Xna.(Online)
